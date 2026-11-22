@@ -1,0 +1,6 @@
+{
+  "name": "Zeed.MGTS — Zeed Management",
+  "description": "Strategic Social. Scalable Growth. Measurable Results. Full-service social media management, content direction, paid ads, and growth systems for ambitious brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
